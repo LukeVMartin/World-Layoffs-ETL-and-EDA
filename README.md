@@ -1,4 +1,4 @@
-![Dashboard](Global%20Workforce%20Data%20Dashboard%20(EXCEL).png)
+![Dashboard](Global Workforce Data Integrity & Impact Excel Dashboard.png)
 
 # World-Layoffs-ETL-and-EDA Summary:
 A comprehensive SQL project focused on cleaning a messy dataset of global tech layoffs followed by Exploratory Data Analysis (EDA) to identify high-impact trends and top-performing companies.
